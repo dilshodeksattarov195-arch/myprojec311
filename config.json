@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggersarse",
+        "uuid": 1298736,
+        "checksum": "z82xj"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
